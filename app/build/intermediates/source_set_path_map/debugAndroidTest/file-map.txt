@@ -1,0 +1,6 @@
+com.example.note.test.app-core-1.5.0-0 C:\Users\naoko\.gradle\caches\transforms-3\93accd4ab6e6449dfa751085017a7b7b\transformed\core-1.5.0\res
+com.example.note.test.app-annotation-experimental-1.3.0-1 C:\Users\naoko\.gradle\caches\transforms-3\9b136846b8bb93b1ff009e1138ccb2c4\transformed\annotation-experimental-1.3.0\res
+com.example.note.test.app-androidTest-2 C:\Users\naoko\AndroidStudioProjects\testnote\app\build\generated\res\resValues\androidTest\debug
+com.example.note.test.app-mergeDebugAndroidTestResources-3 C:\Users\naoko\AndroidStudioProjects\testnote\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.note.test.app-mergeDebugAndroidTestResources-4 C:\Users\naoko\AndroidStudioProjects\testnote\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.note.test.app-merged_res-5 C:\Users\naoko\AndroidStudioProjects\testnote\app\build\intermediates\merged_res\debugAndroidTest
